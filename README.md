@@ -7,3 +7,4 @@ For example:
 - support request things that can be handled publicly (some of these things can become FAQ items)
 - how to get more people to work on these issues
 - Kasper's personal (yet public) goals for Trustroots
+- Martin's example point to test if he has access now.
