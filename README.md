@@ -1,4 +1,4 @@
-# community
+# Community/Non-Tech
 
 This repository is mainly to keep track of non-technical issues around Trustroots that can be handled publicly.
 
