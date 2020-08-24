@@ -23,3 +23,4 @@ we have:
 - [x] [Google+ group](https://plus.google.com/communities/110376845532540658554)
 - [x] [Instagram](https://www.instagram.com/trustroots_org/)
 
+[#communication channel on Slack](https://trustroots.slack.com/archives/CT5U2RCH3)    
