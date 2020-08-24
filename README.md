@@ -6,8 +6,11 @@ For example:
 
 - support request things that can be handled publicly (some of these things can become FAQ items)
 - how to get more people to work on these issues
-- Kasper's personal (yet public) goals for Trustroots
+- [Explanatory text for visitors dropping by](https://github.com/Trustroots/community/issues/86)
+- [Organise video tutorials for completed HowTo's](https://github.com/Trustroots/community/issues/85)
+- [Set up a page with area info and champions](https://github.com/Trustroots/community/issues/78)
 
+[and many more](https://github.com/Trustroots/community/issues)
 
 ## Overview of social media accounts
 
